@@ -22,4 +22,5 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
+composer.lock
 # End of https://www.gitignore.io/api/laravel
